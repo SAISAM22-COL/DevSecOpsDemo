@@ -1,0 +1,21 @@
+{
+  "name": "devsecopsdemo",
+  "version": "1.0.0",
+  "description": "Devsecops class demo repo week 1",
+  "main": "add.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAISAM22-COL/DevSecOpsDemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SAISAM22-COL/DevSecOpsDemo/issues"
+  },
+  "homepage": "https://github.com/SAISAM22-COL/DevSecOpsDemo#readme"
+}
